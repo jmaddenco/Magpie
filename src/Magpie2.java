@@ -44,7 +44,7 @@ public class Magpie2 {
 		} else if (statement.indexOf("Mr.") >= 0) {
 			response = "He sounds like a great teacher!";
 		} else if (statement.indexOf("Mrs.") >= 0) {
-			response = "She sounds like a great teache!";
+			response = "She sounds like a great teacher!";
 		}
 		else {
 			response = getRandomResponse();
